@@ -26,11 +26,11 @@ export default function Education() {
                 }} className="container education_container">
         <SwiperSlide className="education">
           <div className="education_avatar">
-            <img src={SSVN} alt="cotton" />
+            <img  alt="Logo" />
           </div>
           <h4 className="education _name">Matriculation(2019)</h4>
           <small className="education_details">
-          Sankardev Sishu Vidya Niketan, Ambari
+          Conservation Training Institute (CTI), Byrnihat
           </small>
         </SwiperSlide>
         <SwiperSlide className="education">

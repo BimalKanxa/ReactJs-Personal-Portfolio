@@ -32,7 +32,7 @@ export default function Contect() {
           <article className="contact_option">
             <AiOutlineMail className="contact_option_icon" />
             <h4>Email</h4>
-            <h5>example@gmail.com</h5>
+            <h5>bsmotivation03@gmail.com</h5>
             <a href="mailto:example@gmail.com" target="_blank" rel="noreferrer">
               {" "}
               Send a message
@@ -50,7 +50,7 @@ export default function Contect() {
           <article className="contact_option">
             <BsWhatsapp className="contact_option_icon" />
             <h4>Whatsapp</h4>
-            <h5>+123456789</h5>
+            <h5>Message Directly </h5>
             <a
               href="https://api.whatsapp.com/send?phone=8135082381"
               target="_blank" rel="noreferrer"
